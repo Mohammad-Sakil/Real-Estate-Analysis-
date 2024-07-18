@@ -1,0 +1,1 @@
+The Real Estate Analysis Power BI Dashboard project provides an interactive visualization tool for analyzing various aspects of the real estate market. It involves data collection, cleaning, transformation, and visualization to deliver actionable insights for investors, real estate agents, and policymakers.
